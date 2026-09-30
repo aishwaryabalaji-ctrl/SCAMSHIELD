@@ -39,17 +39,16 @@ ScamShield allows users to enter an **unknown message or URL**. The AI analyzes 
 
 The system may explain that the message contains moderate urgency and fear indicators, so the user should verify it before taking action.
 
- 6. QR Code Analysis
+ 6. URL Analysis
 
-ScamShield can also scan a **QR code**, extract the URL, and send it for the same risk analysis.
+ScamShield can extract the URL from messages, and send it for the same risk analysis.
 
-**QR → URL Extraction → AI Analysis → Risk Score → Safety Recommendation**
+*Message→ URL Extraction → AI Analysis → Risk Score → Safety Recommendation**
 
 7. Key Features
 
 * 🔗 URL scanning
 * 💬 Suspicious message analysis
-* 📱 QR code analysis
 * 🤖 AI-based detection
 * 📊 Risk score out of 100
 * ⚠️ Safety recommendations
